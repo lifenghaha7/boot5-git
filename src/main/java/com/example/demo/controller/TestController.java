@@ -12,7 +12,7 @@ public class TestController {
     @RequestMapping("test")
     public String test() {
 
-        int a=0;
+        int a=011111;
         return "1111122222";
     }
 
