@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @RequestMapping("test")
     public String test() {
+
         int a=0;
         return "1111122222";
     }
